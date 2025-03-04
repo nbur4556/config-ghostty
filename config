@@ -44,3 +44,5 @@
 
 theme = rose-pine
 # theme = catppuccin-macchiato
+
+background-opacity = 0.95
