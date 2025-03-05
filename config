@@ -51,7 +51,7 @@ background-blur = true
 # Keybindings
 keybind = ctrl+g>shift+\=new_split:right
 keybind = ctrl+g>shift+-=new_split:down
-keybind = ctrl+g>j=goto_split:down
-keybind = ctrl+g>k=goto_split:up
-keybind = ctrl+g>h=goto_split:left
-keybind = ctrl+g>l=goto_split:right
+keybind = unconsumed:ctrl+g>j=goto_split:down
+keybind = unconsumed:ctrl+g>k=goto_split:up
+keybind = unconsumed:ctrl+g>h=goto_split:left
+keybind = unconsumed:ctrl+g>l=goto_split:right
