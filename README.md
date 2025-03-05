@@ -2,7 +2,7 @@
 
 ## Overview
 
-Personal configuration for [Ghostty](https://ghostty.org) terminal, featuring the [Rose Pine](https://tosepinetheme.com) theme and enhanced keybindings.
+Personal configuration for [Ghostty](https://ghostty.org) terminal, featuring the [Rose Pine](https://rosepinetheme.com) theme and enhanced keybindings.
 
 ## Features
 
