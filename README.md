@@ -2,25 +2,38 @@
 
 ## Overview
 
-My personal [Ghostty](https://ghostty.org) terminal configuration.
+Personal configuration for [Ghostty](https://ghostty.org) terminal, featuring the [Rose Pine](https://tosepinetheme.com) theme and enhanced keybindings.
 
 ## Features
 
 - **Rose Pine Theme**
-- **Keybindings:** For window pane management.
+- **Custom Keybindings** for window pane management.
 
 ## Installation
 
-To use this config:
+1. Navigate to your configuration directory
 
-- navigate to your ~/.config/ directory (or wherever you store your home configuration files)
-- Clone this repository
-- Rename this repository 'ghostty' 
-- Restart the Ghostty terminal, or reload the configuration
-
-```
-# Default keybinding to reload Ghostty configuration
-Ctrl + Shift + ,
+```sh
+cd ~/.config/
 ```
 
-Now you'll have my theme and keybindings ready to go! Let me know if you have other questions!
+2. Clone the repository
+
+```sh
+git clone <repository-url>
+```
+
+3. Rename the cloned directory
+
+```sh
+mv config-ghostty ghostty
+```
+
+4. Reload Ghostty configuration:
+    - keyboard shortcut: `Ctrl + Shift + ,`
+    - Alternatively, restart the Ghostty terminal
+
+## Notes
+
+- Ensure you have Ghostty installed before attempting to apply this configuration
+- Backup your existing configuration before replacing
