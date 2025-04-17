@@ -3,6 +3,8 @@ theme = rose-pine
 background-opacity = 0.93
 background-blur = true
 
+fullscreen = true
+
 # Keybindings
 keybind = ctrl+g>shift+\=new_split:right
 keybind = ctrl+g>shift+-=new_split:down
